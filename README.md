@@ -10,14 +10,13 @@ LIS 2360:  Web Application Development
 (Jacqueline MArks)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Being able to look up movie information.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/jtmarks15/lesson8.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Using JSON.)
+2. (Connecting API's to use information for various programs.)
+3. (Looking up movies.)
 # lesson8
